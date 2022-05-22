@@ -1,27 +1,16 @@
 ---
 layout: default
 title: Introducción
-parent: Primal quest SRD
+parent: Primal Quest SRD
 nav_order: 1
 has_children: false
 redirect_from:
 ---
 
-# Primal Quest Essentials SRD en español
+# Introducción
+---
 
-## Un juego sobre extrañas aventuras de piedra y hechicería, por Diogo Nogueira
-
-**Primal Quest - Essentials** es un conjunto simplificado de reglas que permite vivir extrañas aventuras de piedra y hechicería en un mundo mítico donde la humanidad sobrevive junto a dinosaurios, extraterrestres y criaturas más antiguas que el propio mundo.
-
-**Escrito por**: Diogo Nogueira
-
-**Editado por**: Wayne Canepa
-
-**Traducción (con permiso del autor) por**: calpurnio pison, para La esquina del rol
-
-Primal quest essentials SRD En español (v.1.o) es una traducción del inglés al español del texto original utilizado en la obra Primal quest essentials SRD [encuéntralo en: [oldskull-publishing.com] (https://oldskull-publishing.com/) creado y escrito por Diogo Nogueira. El texto en español fue traducido con permiso del autor por calpurnio pison para La esquina de rol. El texto del presente documento fue adaptado para una mejor comprensión.
-
-# ¿Qué se ofrece aquí?
+## ¿Qué se ofrece aquí?
 
 Un sistema de reglas simplificado que solo utiliza d6 y que proporciona diversos grados de éxito, consecuencias adicionales y control narrativo con una sola tirada de dados.
 Reglas de creación de personajes rápidas, intuitivas e increíblemente flexibles, lo que permite la creación de personajes diferenciados.
@@ -33,15 +22,15 @@ Un sistema de magia abierto que fomenta la creatividad, el ingenio y hace que la
 
 Reglas para hacer que el juego sea fácil de dirigir, improvisar y resulte divertido para el Árbitro.
 
-# The Primal World of Thaia
+## The Primal World of Thaia
 
 Primal Quest se desarrolla junto con The Primal World of Thaia, un zine centrado en las aventuras de vieja escuela de piedra y hechicería. Cada entrega ofrecerá detalles adicionales sobre el mundo, reglas opcionales, arquetipos de personajes, aventuras, monstruos y mucho más. Echa un vistazo a las últimas novedades sobre The Primal World of Thaia en [bit.ly/PQThaia](bit.ly/PQThaia).
 
-# Hoja de personaje
+## Hoja de personaje
 
 Descarga la hoja de personaje para Primal Quest - Essentials en: [bit.ly/PQDownloads](bit.ly/PQDownloads)
 
-# ¿Cómo crear un producto compatible con Primal Quest?
+## ¿Cómo crear un producto compatible con Primal Quest?
 
 Se puede crear material compatible con Primal Quest siguiendo estas simples normas:
 
@@ -50,6 +39,6 @@ Se puede crear material compatible con Primal Quest siguiendo estas simples norm
 
 Esta es una licencia general. Si se desea negociar una licencia con diferentes términos, debe contactarse con diogoarte@gmail.com.
 
-# Herramientas de seguridad
+## Herramientas de seguridad
 
 Para crear un ambiente seguro y amable para todos los jugadores, se recomienda el uso de TTRPG Safety Toolkit.
