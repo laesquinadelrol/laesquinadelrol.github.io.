@@ -12,6 +12,6 @@ permalink: /
 Sitio de publicación de SRDs en español.
 {: .fs-6 .fw-300 }
 
-[Ir a La esquina del rol](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Visitar La esquina del rol](https://laesquinadelrol.com/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
