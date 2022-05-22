@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introducción
+title: Reglas básicas
 parent: Primal Quest SRD
 nav_order: 2
 has_children: false
