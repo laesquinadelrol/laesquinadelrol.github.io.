@@ -8,7 +8,7 @@ nav_exclude: false
 
 # Primal Quest Essentials SRD en español
 ---
-
+![Alt text](/img/primaquest/portada.png)
 Un juego sobre extrañas aventuras de piedra y hechicería, por Diogo Nogueira
 
 **Primal Quest - Essentials** es un conjunto simplificado de reglas que permite vivir extrañas aventuras de piedra y hechicería en un mundo mítico donde la humanidad sobrevive junto a dinosaurios, extraterrestres y criaturas más antiguas que el propio mundo.
