@@ -87,6 +87,7 @@ Cuando los personajes estén inmersos en una situación donde el resultado es in
 - Si no se indica nada, la **Dificultad** por defecto es *0*. Una **Dificultad** de *1 o más* se considera complicada y normalmente requerirá una **Prueba**. Una **Dificultad** *inferior a 0* se considera tarea fácil y generalmente no requerirá una **Prueba**.
 
 ## Dificultad
+
 |           |               |                   |              |                    |
 | --------- | ------------- | ----------------- | ------------ | -------------------|
 |  Moderada |    Difícil    |    Muy Difícil    |  Abrumadora  |    Legendaria      |
@@ -222,6 +223,7 @@ Llevar demasiado equipo puede entorpecer a los personajes.
 
 ### Armas
 Hay cuatro categorías de armas:
+
 |                    |       |      |                                                                                         |
 | ------------------ | ----- | ---- | --------------------------------------------------------------------------------------- |
 | Categoría de armas | Coste | Daño | Notas                                                                                   |
@@ -232,6 +234,7 @@ Hay cuatro categorías de armas:
 
 ### Armaduras
 Hay cuatro categorías de armaduras:
+
 |                    |       |       |                                                                                         |
 | ------------------ | ----- | ----- | --------------------------------------------------------------------------------------- |
 | Categoría          | Coste | Def   | Notas                                                                                   |
@@ -242,6 +245,7 @@ Hay cuatro categorías de armaduras:
 
 ### Escudos
 Hay tres categorías de escudos:
+
 |                    |       |       |                                                                                         |
 | ------------------ | ----- | ----- | --------------------------------------------------------------------------------------- |
 | Categoría          | Coste | Def*  | Notas                                                                                   |
