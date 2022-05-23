@@ -87,6 +87,7 @@ Cuando los personajes estén inmersos en una situación donde el resultado es in
 - Si no se indica nada, la **Dificultad** por defecto es *0*. Una **Dificultad** de *1 o más* se considera complicada y normalmente requerirá una **Prueba**. Una **Dificultad** *inferior a 0* se considera tarea fácil y generalmente no requerirá una **Prueba**.
 
 ## Dificultad
+
 |           |               |                   |              |                    |
 |  Moderada |    Difícil    |    Muy Difícil    |  Abrumadora  |    Legendaria      |
 | --------- | ------------- | ----------------- | ------------ | -------------------|
