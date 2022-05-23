@@ -52,6 +52,8 @@ aux_links_new_tab: true
 # Supports true (default) or false
 heading_anchors: true
 
+# Google Analytics Tracking (optional) # e.g, UA-1234567-89 ga_tracking: G-2595499D4J ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
+
 # Back to top link
 back_to_top: true
 back_to_top_text: "Ir arriba"
