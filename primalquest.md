@@ -243,7 +243,7 @@ Hay cuatro categorías de armaduras:
 | Categoría          | Coste | Def   | Notas                                                                                   |
 | Sin armadura       |   0   |  0    |   -                                                                                     |
 | Ligera             |  10   |  +1   | Podría pasar como ropas normales. 1 unidad de Carga.                                    |
-| Media              |  30   |  +2   | +PD si se quiere hacer pasar como ropas normales. 2 unidades de Carga.                  |
+| Media              |  30   |  +2   | +DP si se quiere hacer pasar como ropas normales. 2 unidades de Carga.                  |
 | Pesada             |  75   |  +3   | No se puede hacer pasar como ropas normales. 3 unidades de Carga.                       |
 
 ### Escudos
@@ -511,4 +511,4 @@ Dado que el material publicado en el *zine* estará en su *idioma original*, apo
 | Vitality (V)                                           | Vitalidad (V)       |
 | XP                                                     | PX                  |
 
-[Regresar al contenido](#contenido)        
+[Regresar al contenido](#contenido)
