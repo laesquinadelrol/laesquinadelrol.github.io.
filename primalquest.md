@@ -89,8 +89,8 @@ Cuando los personajes estén inmersos en una situación donde el resultado es in
 ## Dificultad
 
 |           |               |                   |              |                    |
-|  Moderada |    Difícil    |    Muy Difícil    |  Abrumadora  |    Legendaria      |
 | --------- | ------------- | ----------------- | ------------ | -------------------|
+|  Moderada |    Difícil    |    Muy Difícil    |  Abrumadora  |    Legendaria      |
 |     0     |     1 o 2     |      3 o 4        |      5       |        6 o más     |
 
 ## Efecto
@@ -235,8 +235,9 @@ Hay cuatro categorías de armas:
 ### Armaduras
 Hay cuatro categorías de armaduras:
 
-| Categoría          | Coste | Def   | Notas                                                                                   |
+|                    |       |       |                                                                                         |
 | ------------------ | ----- | ----- | --------------------------------------------------------------------------------------- |
+| Categoría          | Coste | Def   | Notas                                                                                   |
 | Sin armadura       |   0   |  0    |   -                                                                                     |
 | Ligera             |  10   |  +1   | Podría pasar como ropas normales. 1 unidad de Carga.                                    |
 | Media              |  30   |  +2   | +PD si se quiere hacer pasar como ropas normales. 2 unidades de Carga.                  |
@@ -245,8 +246,9 @@ Hay cuatro categorías de armaduras:
 ### Escudos
 Hay tres categorías de escudos:
 
-| Categoría          | Coste | Def*  | Notas                                                                                   |
+|                    |       |       |                                                                                         |
 | ------------------ | ----- | ----- | --------------------------------------------------------------------------------------- |
+| Categoría          | Coste | Def*  | Notas                                                                                   |
 | Pequeño            |  10   |  +1   | Bloquea 1 ataque antes de romperse. 1 unidad de Carga.                                  |
 | Grande             |  30   |  +1   | Bloquea 2 ataques antes de romperse. 2 unidades de Carga.                               |
 | Torre              |  75   |  +2   | Bloquea 3 ataques antes de romperse. 2 unidades de Carga. +DN en los ataques y solo se puede hacer 1 acción por ronda. |
@@ -422,8 +424,9 @@ Todos los personajes no jugadores (PNJs) se clasifican como **Oponentes**. Los *
 ## Reacción
 Cuando hayan dudas sobre cómo reacciona un **Oponente**, se solicita una **Prueba** de **Suerte**. La tabla inferior indica su reacción según el **Resultado** obtenido.
 
-| Resultado de la prueba de suerte | Reacción     |
+|                                  |              |
 | -------------------------------- | ------------ |
+| Resultado de la prueba de suerte | Reacción     |
 |              -5                  | Hostil       |
 |            -4 a -3               | No amistoso  |
 |            -2 a +2               | Inseguro     |
@@ -449,8 +452,9 @@ Los personajes pueden perderse cuando viajen por territorios desconocidos.
 - Si los personajes tienen *éxito*, *continúan* el viaje según sus planes.
 - Si *fallan*, se *pierden* y se mueven a un hexágono adyacente *al azar, creyendo* que van en la dirección correcta.
 
-|        Tipo de tereno           |  Dificultad  |
+|                                 |              |
 | ------------------------------- | ------------ |
+|        Tipo de tereno           |  Dificultad  |
 |    Llanura, valle, camino       |      0       |
 | Bosques, colinas, tierras yermas|      1       |
 |  Bosque denso, tundra, desierto |      2       |
@@ -475,8 +479,9 @@ Se puede obtener más información sobre **The Primal World of Thaia** en [bit.l
 # Conversión de términos
 Dado que el material publicado en el *zine* estará en su *idioma original*, aportamos aquí la *conversión de los términos* utilizados en la traducción:
 
-| Término original                                       |  Término traducido  |
+|                                                        |                     |
 | ------------------------------------------------------ | ------------------- |
+| Término original                                       |  Término traducido  |
 | Attributes                                             | Atributos           |
 | Body                                                   | Cuerpo              |
 | Close                                                  | Cerca               |
