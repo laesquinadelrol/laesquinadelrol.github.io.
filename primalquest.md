@@ -12,7 +12,7 @@ nav_exclude: false
 
 [Copiar archivo en Google docs](https://docs.google.com/document/d/10U7RvxrZO8DkmxOyGUdK8Wf9zwOi2taIHRH6jbgLcG0/edit?usp=sharing){: : .btn .btn-green .mr-4 }
 [Descargar como PDF ](https://laesquinadelrol.files.wordpress.com/2022/05/primal-quest-essentials-srd.pdf){: : : .btn .btn-purple .mr-2 }
-[Suplemento para aventuras en solitario](https://laesquinadelrol.itch.io/no-one-else-here){: .btn .btn-blue }
+[Suplemento para aventuras en solitario](https://www.drivethrurpg.com/product/399256/No-one-else-here-en-espanol){: .btn .btn-blue }
 
 Un juego sobre extrañas aventuras de piedra y hechicería, por [**Diogo Nogueira**](https://twitter.com/diogo_oldskull)
 
