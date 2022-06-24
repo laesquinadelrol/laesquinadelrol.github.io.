@@ -17,7 +17,7 @@ Sitio de publicación en español de sistemas de juegos de rol bajo licencias SR
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ /srd/_post/2022-06-24-Primer-post.md }}">{{ Primer Post }}</a>
     </li>
   {% endfor %}
 </ul>
