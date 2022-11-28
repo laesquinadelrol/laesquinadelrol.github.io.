@@ -1,3 +1,11 @@
+---
+layout: default
+title: Mark of the Odd SRD
+nav_order: 5
+has_children: false
+nav_exclude: false
+---
+
 # Licencia para la MARK OF THE ODD v0.4
 
 Bastionland Press, enero de 2022. Versión 0.4
