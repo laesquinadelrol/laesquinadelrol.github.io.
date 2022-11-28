@@ -21,7 +21,7 @@ Bastionland Press, enero de 2022. Versión 0.4
 >
 > Texto traducido en español bajo licencia [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.es).
 
-¿Quieres utilizar las reglas de _Into the Odd_ en tu propio juego o módulo de aventura? 
+# ¿Quieres utilizar las reglas de _Into the Odd_ en tu propio juego o módulo de aventura? 
 
 Puedes añadirle la _Mark of the odd_ a lo que hagas, solo ten en cuenta las siguientes directrices: 
 
