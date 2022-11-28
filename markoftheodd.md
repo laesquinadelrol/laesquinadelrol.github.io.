@@ -12,6 +12,9 @@ Bastionland Press, enero de 2022. Versión 0.4
 
 <img src="https://laesquinadelrol.files.wordpress.com/2022/11/mark-of-the-odd.png" alt="Mark of the odd" style="zoom: 50%;" />
 
+[Copiar archivo en Google docs](https://docs.google.com/document/d/1t6ikvaf5ngNWo_aT-togHMCTho_iG2H4GoFoFJnEW2g/edit?usp=sharing){: : .btn .btn-green .mr-4 }
+[Descargar en Itch.io ](https://laesquinadelrol.itch.io/mark-of-the-odd){: : : .btn .btn-purple .mr-2 }
+
 > **Texto original**: Chris McDowall
 >
 > **Traducido por**: [La esquina del rol](), versión 0.1. 
