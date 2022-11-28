@@ -120,8 +120,8 @@ Haga coincidir el valor de su puntuación de característica mayor con su _PG_ p
 ### Tabla de equipo inicial 
 
 
-  |        |   H1 |  H2 | H3 | H4 | H5 | H6 |
-  | ----- | ------- | ----- | ------ | ---- | ---- | ----- |
+  | PUNTUACIÓN DE CARACTERÍSTICA MAYOR |   H1    |  H2    | H3      | H4   | H5    | H6     |
+  | --- | ------- | ------ | ------- | ---- | ----- | ------ |
   | 3-9 |         |        |         |      |       |        |
   | 10  |         |        |         |      |       |        |
   | 11  |         |        |         |      |       |        |
