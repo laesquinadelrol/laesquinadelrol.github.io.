@@ -17,7 +17,7 @@ Bastionland Press, enero de 2022. Versión 0.4
 
 > **Texto original**: Chris McDowall
 >
-> **Traducido por**: [La esquina del rol](), versión 0.1. 
+> **Traducido por**: [La esquina del rol](), versión 0.2 
 >
 > Texto traducido en español bajo licencia [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.es).
 
@@ -60,7 +60,7 @@ Cuando el grupo de juego es pequeño, cada jugador puede crear uno o más famili
 
 100 Peniques (p) equivalen a 1 chelín (c). 100 Chelines equivalen a 1 Florín (f). 
 
-- **Ataque desarmado**: 1d4 de *Daño*. 
+- **Ataque sin armas**: 1d4 de *Daño*. 
 
 - **Arma simple** (1c): 1d6 de _Daño_, *Voluminosa*. Arco, horquillo, taburete de bar, etc.
 
