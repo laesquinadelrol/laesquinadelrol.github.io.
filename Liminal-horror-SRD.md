@@ -16,7 +16,9 @@ Escrito original: [Goblin Archives](https://twitter.com/goblin_archives)
 
 El texto traducido en español de Liminal horror está licenciado para su uso como [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es)
 
-Traducido con autorización del autor del inglés al español por La esquina del rol y calpurnio pison para la publicación del SRD en [Laesquinadelrol.com](https://laesquinadelrol.com/)
+Traducido con autorización del autor del inglés al español por La esquina del rol y calpurnio pison para su publicación en [srd.laesquinadelrol.com](https://srd.laesquinadelrol.com/)
+
+Arte por: [Roque Romero Rua](https://twitter.com/RoqueRomeroRua).
 
 Versión en español v.0311
 
