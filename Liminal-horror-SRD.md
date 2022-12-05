@@ -22,13 +22,13 @@ Versión en español v.0311
 
 Espera pronto la versión en PDF y física a través de [Colmena de Papel](https://twitter.com/colmenadepapel) 
 
-## ¿Qué es un SRD? ¿Cómo lo puedo usar para crear tu propio juego?
+## ¿Qué es un SRD? ¿Cómo lo puedes usar para crear tu propio juego?
 
 En los juegos de rol el término SRD (por sus siglas en inglés: Documento de Referencia del Sistema) se utiliza para referirse al documento que contiene reglas del juego con licencia para ser usadas por terceros en sus propias creaciones. Liminal horror está bajo una licencia [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es) , esto significa que todo el texto está liberado para su uso (algunos autores licencian de este modo las reglas para su uso, pero restringen el uso de la ambientación). En un futuro no muy lejano, quizás exista una guía qué explique cada parte y cómo debe ser usada cuando utilices el SRD para tus propios juegos. Hasta entonces, puedes revisar cómo se adaptó el texto de [Cairn](https://es.cairnrpg.com/cairn-srd/cairn-srd-europa/) para crear **Liminal Horror**.
 
 ## Otros forma en los que puedes encontrar el SRD (archivos actualizados por La esquina del rol el 6/12/22)
 
-- [SRD Markdown](https://drive.google.com/file/d/1weiNEjzW9s6xMeBUCt6SPMnZQrVE3G3K/view?usp=sharing)
+- [SRD Markdown]()
 
 <p></p>
 
