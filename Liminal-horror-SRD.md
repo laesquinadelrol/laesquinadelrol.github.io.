@@ -1,11 +1,9 @@
 ---
-​---
 layout: default
 title: Liminal Horror SRD
 nav_order: 
 has_children: false
 nav_exclude: true
-​---
 ---
 
 # Documento de referencia del sistema de Liminal horror (v.2.25)
