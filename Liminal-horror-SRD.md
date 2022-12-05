@@ -8,7 +8,9 @@ nav_exclude: true
 
 # Liminal horror SRD (v.2.25)
 
-![Liminal Horror SRD](/img/primalquest/liminalhorror.png)
+![Liminal Horror SRD](/img/liminalhorror.png)
+
+[Descargar archivo Markdown](https://docs.google.com/document/d/10U7RvxrZO8DkmxOyGUdK8Wf9zwOi2taIHRH6jbgLcG0/edit?usp=sharing){: : .btn .btn-green .mr-4 }
 
 Escrito original: [Goblin Archives](https://twitter.com/goblin_archives)
 
