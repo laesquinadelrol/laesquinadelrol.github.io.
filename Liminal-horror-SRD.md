@@ -8,6 +8,8 @@ nav_exclude: true
 
 # Liminal horror SRD (v.2.25)
 
+![Liminal Horror SRD](/img/primalquest/liminal-horror-portada.jpg)
+
 Escrito original: [Goblin Archives](https://twitter.com/goblin_archives)
 
 El texto traducido en español de Liminal horror está licenciado para su uso como [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es)
