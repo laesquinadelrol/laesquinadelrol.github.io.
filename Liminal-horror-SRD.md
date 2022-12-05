@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Liminal horror SRD (v.2.25)
 
-![Liminal Horror SRD](/img/primalquest/liminal-horror-portada.jpg)
+![Liminal Horror SRD](/img/primalquest/liminalhorror.png)
 
 Escrito original: [Goblin Archives](https://twitter.com/goblin_archives)
 
