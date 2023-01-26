@@ -8,9 +8,9 @@ nav_exclude: false
 
 # 24XX SRD
 
-![Liminal Horror SRD](/img/liminalhorror.png)
+![Liminal Horror SRD](/img/portada 24xx itchio.png)
 
-[Descargar archivo Markdown](){: : .btn .btn-green .mr-4 }
+[Descargar archivos](https://laesquinadelrol.itch.io/24xx-srd){: : .btn .btn-green .mr-4 }
 
 ## REGLAS
 
@@ -177,6 +177,8 @@ planetas y a otras naves estelares.
 | 8    | Falkor            | 18   | Veloz            |
 | 9    | Estrella espacial | 19   | Trueno           |
 | 10   | Disparo lunar     | 20   | Caminante        |
+
+## CONTRAPORTADA
 
 // **PREMISA**: Describe lo básico de la ambientación. Si se desarrollará durante la partida, dale una razón a
 los personajes para estar juntos y lo que harán.
