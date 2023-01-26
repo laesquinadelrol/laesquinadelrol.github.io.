@@ -1,4 +1,16 @@
+---
+layout: default
+title: 24XX SRD
+nav_order: 
+has_children: false
+nav_exclude: false
+---
+
 # 24XX SRD
+
+![Liminal Horror SRD](/img/liminalhorror.png)
+
+[Descargar archivo Markdown](){: : .btn .btn-green .mr-4 }
 
 ## REGLAS
 
